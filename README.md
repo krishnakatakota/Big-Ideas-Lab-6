@@ -15,4 +15,4 @@
 
 #### Why'd we choose our license and code of conduct?
 * We chose Apache arbitrarily, as it suits our needs just fine, without being excessive or overly restrictive.
-* We chose our code of conduct to make sure everyone is responsible without 
+* We chose our code of conduct to make sure everyone is responsible about what kind of code they contribute.
